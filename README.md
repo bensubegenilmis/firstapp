@@ -20,3 +20,4 @@ Proje Aşamaları
 ![Screenshot_1706183661](https://github.com/bensubegenilmis/firstapp/assets/56439963/e9951122-6401-4050-8830-13f0099828d1)
 ![Screenshot_1706188081](https://github.com/bensubegenilmis/firstapp/assets/56439963/2deb3cc0-24eb-4415-bdb0-04825a5a7ca2)
 ![Screenshot_1706188084](https://github.com/bensubegenilmis/firstapp/assets/56439963/321589c7-897d-4dfb-8c85-70ec6ad3825d)
+![Screenshot_1706189011](https://github.com/bensubegenilmis/firstapp/assets/56439963/3bcde2cb-0756-4c4d-a802-9869d09bc8c1)
