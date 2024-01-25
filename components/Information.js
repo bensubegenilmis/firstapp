@@ -16,7 +16,7 @@ export default function Information({ title, imageSource, desc }) {
 
 const styles = StyleSheet.create({
     img: {
-        width: 400,
+        width: 415,
         height: 300,
     },
     descTitle:{
