@@ -13,6 +13,14 @@ export default function HomeScreen({navigation}) {
         title="Kurs Bilgilerim"
         onPress={() => navigation.navigate('Kurs Bilgilerim')}
       />
+      <Button
+        title="Sayaç Uygulaması"
+        onPress={() => navigation.navigate('Sayaç')}
+      />
+      <Button
+        title="Kutu Uygulaması"
+        onPress={() => navigation.navigate('Kutu Uygulaması')}
+      />
     </View>
   );
 };
