@@ -21,6 +21,10 @@ export default function HomeScreen({navigation}) {
         title="Kutu Uygulaması"
         onPress={() => navigation.navigate('Kutu Uygulaması')}
       />
+       <Button
+        title="Renk Değiştir"
+        onPress={() => navigation.navigate('Renk Değiştir')}
+      />
     </View>
   );
 };
